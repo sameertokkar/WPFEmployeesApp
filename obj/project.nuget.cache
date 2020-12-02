@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wez4CNSSs5A2gkiv1+H6MbbarEUvaRV7GnWj6pOGcSzy7v9+0PLrN7VpaY7yZQOo1mAc/dYp2p0bvgbUElO2Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samee\\source\\repos\\EmployeesDemoApp\\EmployeesDemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samee\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
